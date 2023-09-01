@@ -1,0 +1,116 @@
+
+
+
+
+html{
+ 
+    margin-right: 16px;
+    margin-top: 16px;
+  
+
+}
+
+*{
+box-sizing: border-box;
+margin: 0;
+  padding: 0;
+ 
+
+
+}
+
+
+
+
+header{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  color: #ff0202;
+  
+
+  
+
+}
+
+
+
+
+
+
+.navegacao nav {
+
+ text-align: center;
+ padding: 2rem;
+margin-top: 1.2em;
+
+ 
+}
+
+.navegacao a{
+ 
+font-family: 'Poppins';
+font-size: 13px;
+color: #ff0202;
+font-weight: bold;
+padding: 0.3em;
+text-decoration: none;
+
+
+
+
+
+
+
+}
+
+.navegacao a:hover{
+
+border-bottom: 2px solid #ff0202;
+transition: 450ms;
+
+}
+
+
+main img{
+
+max-width: 100vw;
+
+}
+
+
+.carrosel{
+
+    display: flex;
+    flex-direction: column;
+    max-width: 100vw;
+   
+    
+    
+    
+
+
+}
+
+.carrosel img{
+
+    padding: 1rem;
+    margin: 1.5em;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
